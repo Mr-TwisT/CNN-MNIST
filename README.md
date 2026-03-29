@@ -35,8 +35,11 @@ The second part implements a spatial-aware architecture that preserves the 2D na
 <br>
 
 **MLP results:**
+
 ![MLP results](images/simple_nn-results.png)
+
 **CNN results:**
+
 ![CNN results](images/cnn-results.png)
 
 **Key Finding:** The CNN model consistently outperforms the MLP by better understanding the spatial relationships between pixels, making it more robust to distortions.
