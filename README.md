@@ -1,8 +1,8 @@
-# 📝 MNIST Digit Recognition: MLP vs. CNN
+# MNIST Digit Recognition: MLP vs. CNN
 
 This project is a practical comparison of two different neural network architectures for the task of classifying handwritten digits using the **MNIST** dataset. It demonstrates the evolution from a standard dense network (**Multilayer Perceptron**) to a more advanced **Convolutional Neural Network (CNN)**.
 
-## 🚀 Project Overview
+## 📖 Project Overview
 
 The goal of this project is to demonstrate the practical differences in implementation, data preparation, and performance between standard dense layers and convolutional layers using **TensorFlow/Keras**.
 
@@ -50,11 +50,11 @@ The second part implements a spatial-aware architecture that preserves the 2D na
 - **TensorFlow / Keras** - Deep Learning framework.
 - **NumPy** - Mathematical operations on arrays.
 
-## 📖 How to Run
+## 🚀 How to Run?
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Mr-TwisT/CNN-MNIST](https://github.com/Mr-TwisT/CNN-MNIST)
+   git clone https://github.com/Mr-TwisT/CNN-MNIST.git
    ```
 2. **Install dependencies:**
    ```bash
